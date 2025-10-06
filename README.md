@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ynk</h1>
+<h1 align="center">Hi 👋, I'm Ynki</h1>
 <h3 align="center">The main goal of my day is to share something new with the world.</h3>
 <p align="center">At the moment, I have few public projects, but over time my works will be updated.</p>
 
