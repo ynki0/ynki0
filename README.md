@@ -6,4 +6,7 @@
 
 <h3 align="center">https://orion-development.com</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ynki0&show_icons=true&locale=en&layout=compact" alt="ynki0" /></p>
+<h3 align="center"><a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynki0&layout=compact&langs_count=8&card_width=320" />
+</a>
+</h3>
