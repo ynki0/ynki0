@@ -6,5 +6,4 @@
 
 <h3 align="center">https://orion-development.com</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ynki0&layout=compact&theme=radical)
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ynki0&show_icons=true&locale=en&layout=compact" alt="ynki0" /></p>
