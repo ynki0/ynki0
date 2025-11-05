@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ynki</h1>
 <h3 align="center">The main purpose of my presence is to remain anonymous.</h3>
-<p align="center">The main is to create something new</p>
+<h3 align="center">The main is to create something new</h3>
 
 <p align="center">
 
