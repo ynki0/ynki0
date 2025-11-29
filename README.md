@@ -71,11 +71,6 @@
   <img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png" width="48" height="48" />
 </a>
 
-<a href="https://cheatengine.org/" target="_blank" title="Cheat Engine">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cheat_Engine_2023_Vector_Logo.svg/960px-Cheat_Engine_2023_Vector_Logo.svg.png"
-       alt="Cheat Engine" width="48" height="48">
-</a>
-
 </div>
 
 <p align="center"><img src="https://count.getloli.com/@:ynki0?theme=booru-r6gdrawfriends" alt=":ynki0" /></p>
