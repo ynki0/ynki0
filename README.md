@@ -2,8 +2,6 @@
 
 <p align="center">
 
-<p align="center">https://ynki.website</p>
-
 <p align="center"><img src="https://count.getloli.com/@:ynki0?theme=booru-r6gdrawfriends" alt=":ynki0" /></p>
 
 
