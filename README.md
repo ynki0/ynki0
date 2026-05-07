@@ -1,1 +1,3 @@
-// You're probably wondering what I'm doing right now, but I'd say stay out of this shit.
+// hello
+
+With interests in reverse engineering, AI, computer vision and neural networks.
