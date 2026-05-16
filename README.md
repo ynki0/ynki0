@@ -21,11 +21,4 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
 
-<div align="center">
-
-*"You see the same specialists in the admin panel, the commit history, and the calls —*
-*without any magical transfer by an unknown team."*
-
-</div>
